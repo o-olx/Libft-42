@@ -67,7 +67,7 @@ L'objectif est de recréer un ensemble de fonctions de la bibliothèque standard
 | `make`        | Compile la bibliothèque et génère `libft.a`   |
 | `make clean`  | Supprime les fichiers objets (`.o`)           |
 | `make fclean` | Supprime les fichiers objets **et** `libft.a` |
-| `make fclean` | Compile les exercices bonus                   |
+| `make bonus` | Compile les exercices bonus                   |
 | `make re`     | Supprime les fichiers ojets, la lib, puis recompile tout |
 
 ---
