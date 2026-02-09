@@ -82,5 +82,6 @@ L'objectif est de recréer un ensemble de fonctions de la bibliothèque standard
 
 ## 🫐 Auteur
 
-- Océane (ocviller)
-- Piscine de Mars 2025
+* Océane (ocviller)
+* Piscine de Mars 2025
+* Projet réalisé à 42 Paris, 2025
